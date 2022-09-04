@@ -1,0 +1,5 @@
+Install Django(pip install Django)
+Start a project by this command:
+	django-admin startproject project-name.
+Chnge directory to geeks_site
+Start the server(python manage.py runserver)

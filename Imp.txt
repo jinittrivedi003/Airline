@@ -1,0 +1,29 @@
+make database change in python go to settings.py 
+at line no 77-82,do changes as per mysql
+Than do
+
+1-cd demo1
+2-python manage.py makemigrations
+3-then go to initial.py
+4.then go to terminal and type..python manage.py migrate(automatically it make 8-10 table)
+5-python manage.py createsuperuser-
+than write-email
+password-min8lenght
+pass-y
+6-Wrte url in chrome as /admin
+7-go to admin.py and write:
+	from .models import student
+	admin.site.register(student)
+8-go to views in demo1 
+9-Go to pageNAme.html and write
+ {{ name }}
+
+    <ul>
+    {% for i in numlist %}
+		{% if i divisible by 2 == 0 %}
+        <li>
+            {{i}}
+        </li>
+	{% endif %}
+    {% endfor %}
+</ul>

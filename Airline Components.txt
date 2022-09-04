@@ -1,0 +1,47 @@
+Air Line  Components
+-Login/Logout
+-Registration/Sign-In
+-Search Flight
+-Manage Bookings
+-Flight status
+-Manage:
+	1. Domestic Fares and Penalities
+-Offers:
+	1. International Schemes
+	2. Domestic schemes
+	3. Group Booking 
+-Travel Info:
+	1. On Ground Services
+	2. On Board Facilities
+	3. Airport Information
+-Baggage:
+	1. Hand luggage
+	2. Check Baggage allowances
+	3. Special Baggage
+	4. Extra Baggage allowances
+-Student offers
+-Online Boardings
+-Cabin Features
+	1.First Class
+ 	2.Business Class
+ 	3.Premium Economy
+ 	4.Economy Class
+-Family Travel
+ 	1.Unaccompanied Minors
+ 	2.Pregnancy
+ 	3.Baggage Allowances
+-Kids Arrangement
+ 	1.Children's Entertainment
+ 	2.Kids' Toys
+ 	3.Activities for Kids
+-Cargo flights
+-Payment Methods 
+ 	1.Credit/Debit Card
+ 	2.UPI 
+-Destinations
+-Media Center
+-Covid19 Queries
+-Car Rental
+-About Us
+-Contact Us
+-Feedback
