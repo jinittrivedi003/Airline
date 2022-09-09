@@ -206,53 +206,45 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
+            
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="{% url 'addCategory' %}" class="nav-link active">
+                <a href="{% url 'viewCategory' %}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>ADD Category</p>
+                  <p>Category</p>
                 </a>
                </li>
               <li class="nav-item">
-                <a href="{% url 'addAirline' %}" class="nav-link">
+                <a href="{% url 'viewAirline' %}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Add Airline</p>
+                  <p>Airline</p>
                 </a>
               </li> 
               <li class="nav-item">
-                <a href="{% url 'addStatus' %}" class="nav-link">
+                <a href="{% url 'viewStatus' %}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Add Status</p>
+                  <p>Status</p>
                 </a>
               </li> 
               <li class="nav-item">
-                <a href="{% url 'addCargo' %}" class="nav-link">
+                <a href="{% url 'viewCargo' %}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Add Cargo</p>
+                  <p>Cargo</p>
                 </a>
               </li> 
               <li class="nav-item">
-                <a href="{% url 'addBooking' %}" class="nav-link">
+                <a href="{% url 'viewBooking' %}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p> Booking</p>
                 </a>
               </li> 
               <li class="nav-item">
-                <a href="{% url 'addCar' %}" class="nav-link">
+                <a href="{% url 'viewCar' %}" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Add Rental Car</p>
+                  <p>Rental Car</p>
                 </a>
               </li> 
             </ul>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
-              <p>
-                Simple Link
-                <span class="right badge badge-danger">New</span>
-              </p>
-            </a>
           </li>
         </ul>
       </nav>

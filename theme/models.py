@@ -4,7 +4,7 @@ from django.contrib.auth.models import AbstractUser
  #Create your models here.
 
 class UserModel(AbstractUser):
-    pass
+    userProfile=models.ImageField(upload_to="userProfile")
 class CategoryModel(models.Model):
     title=models.CharField(max_length=200)  
     description= models.TextField()
