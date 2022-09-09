@@ -4,7 +4,8 @@ from django.contrib.auth.models import AbstractUser
  #Create your models here.
 
 class UserModel(AbstractUser):
-    pass
+    userProfile=models.ImageField(upload_to="userProfile")
+    
 class CategoryModel(models.Model):
     title=models.CharField(max_length=200)  
     description= models.TextField()
@@ -42,6 +43,18 @@ class CarModel(models.Model):
     Dropoff=models.TextField(max_length=20)
     PickupDate=models.DateField()
     PickupTime=models.TimeField()
+
+class ContactModel(models.Model):
+    User_Name=models.TextField(max_length=20)
+    Email=models.TextField(max_length=50)
+    Subject=models.TextField(max_length=20)
+    Message=models.TextField(max_length=100)
+
+class FeedbackModel(models.Model):
+    Quality_Score=models.TextField(max_length=10)
+    Message=models.TextField(max_length=100)
+
+
     
 def __str__(self):
     return self.title
