@@ -11,8 +11,8 @@ class CategoryModel(models.Model):
 
 class AirlineModel(models.Model):
     id=models.CharField(max_length=8,unique=True,primary_key=True)
-    From=models.TextField(max_length=15)
-    To=models.TextField(max_length=15)
+    From=models.CharField(max_length=15)
+    To=models.CharField(max_length=15)
     Departing_Date=models.DateField()
     Returning_Date=models.DateField()
     Class=models.CharField(max_length=15)

@@ -19,8 +19,8 @@ class Migration(migrations.Migration):
             name='AirlineModel',
             fields=[
                 ('id', models.CharField(max_length=8, primary_key=True, serialize=False, unique=True)),
-                ('From', models.TextField(max_length=15)),
-                ('To', models.TextField(max_length=15)),
+                ('From', models.CharField(max_length=15)),
+                ('To', models.CharField(max_length=15)),
                 ('Departing_Date', models.DateField()),
                 ('Returning_Date', models.DateField()),
                 ('Class', models.CharField(max_length=15)),

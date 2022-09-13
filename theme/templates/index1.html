@@ -11,7 +11,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AdminLTE 3 | Starter</title>
+  <title>Airline | Starter</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="{% static 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback' %}">
@@ -34,7 +34,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <a href="index3.html" class="nav-link">Home</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Contact</a>
+        <a href="#" class="nav-link">Contact us</a>
       </li>
     </ul>
 
@@ -166,7 +166,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- Brand Logo -->
     <a href="{% static 'index3.html' %}" class="brand-link">
       <img src="{% static 'dist/img/AdminLTELogo.png' %}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">AdminLTE 3</span>
+      <span class="brand-text font-weight-light">Airline Server</span>
     </a>
 
     <!-- Sidebar -->
@@ -177,7 +177,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
           <img src="{% static 'dist/img/user2-160x160.jpg' %}" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Alexander Pierce</a>
+          <a href="#" class="d-block">Jafra Airlines</a>
         </div>
       </div>
 
@@ -194,58 +194,148 @@ scratch. This page gets rid of all links and provides the needed markup only.
       </div>
 
       <!-- Sidebar Menu -->
-      <nav class="mt-2">
-        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+      <nav class="mt-2"> 
+         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
-          <li class="nav-item menu-open">
-            <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                Starter Pages
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="{% url 'viewCategory' %}" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Category</p>
+               <li class="nav-item menu-open">
+                <a href="#" class="nav-link active">
+                  <i class="nav-icon fas fa-tachometer-alt"></i>
+                  <p>
+                    Category
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
                 </a>
-               </li>
-              <li class="nav-item">
-                <a href="{% url 'viewAirline' %}" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Airline</p>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="{% url 'viewCategory' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>View Category</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="{% url 'addCategory' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>Add Category</p>
+                    </a>
+                  </li>
+                </ul>
+              </li>    
+              <li class="nav-item menu-open">
+                <a href="#" class="nav-link active">
+                  <i class="nav-icon fas fa-tachometer-alt"></i>
+                  <p>
+                    Airline
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
                 </a>
-              </li> 
-              <li class="nav-item">
-                <a href="{% url 'viewStatus' %}" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Status</p>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="{% url 'viewAirline' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>View Airline</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="{% url 'addAirline' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>Add Airline</p>
+                    </a>
+                  </li>
+                </ul>
+              </li>    
+              <li class="nav-item menu-open">
+                <a href="#" class="nav-link active">
+                  <i class="nav-icon fas fa-tachometer-alt"></i>
+                  <p>
+                    Flight Status
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
                 </a>
-              </li> 
-              <li class="nav-item">
-                <a href="{% url 'viewCargo' %}" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Cargo</p>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="{% url 'viewStatus' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>View Status</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="{% url 'addStatus' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>Add Status</p>
+                    </a>
+                  </li>
+                </ul>
+              </li>    
+              <li class="nav-item menu-open">
+                <a href="#" class="nav-link active">
+                  <i class="nav-icon fas fa-tachometer-alt"></i>
+                  <p>
+                    Cargo Flights
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
                 </a>
-              </li> 
-              <li class="nav-item">
-                <a href="{% url 'viewBooking' %}" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p> Booking</p>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="{% url 'viewCargo' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>View Flights</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="{% url 'addCargo' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>Add Cargo</p>
+                    </a>
+                  </li>
+                </ul>
+              </li>    
+              <li class="nav-item menu-open">
+                <a href="#" class="nav-link active">
+                  <i class="nav-icon fas fa-tachometer-alt"></i>
+                  <p>
+                    Bookings
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
                 </a>
-              </li> 
-              <li class="nav-item">
-                <a href="{% url 'viewCar' %}" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Rental Car</p>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="{% url 'viewBooking' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>View Booking</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="{% url 'addBooking' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>Add Booking</p>
+                    </a>
+                  </li>
+                </ul>
+              </li>    
+              <li class="nav-item menu-open">
+                <a href="#" class="nav-link active">
+                  <i class="nav-icon fas fa-tachometer-alt"></i>
+                  <p>
+                    Car Rentals
+                    <i class="right fas fa-angle-left"></i>
+                  </p>
                 </a>
-              </li> 
-            </ul>
-          </li>
+                <ul class="nav nav-treeview">
+                  <li class="nav-item">
+                    <a href="{% url 'viewCar' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>View Car</p>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="{% url 'addCar' %}" class="nav-link">
+                      <i class="far fa-circle nav-icon"></i>
+                      <p>Add Car</p>
+                    </a>
+                  </li>
+                </ul>
+              </li>    
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
