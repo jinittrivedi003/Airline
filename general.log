@@ -82,3 +82,1014 @@ django.utils.autoreload INFO 2022-09-14 10:22:38,766 autoreload 58276 85168 Watc
 django.utils.autoreload INFO 2022-09-14 10:23:15,910 autoreload 58276 85168 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\middleware\demoMiddleware.py changed, reloading.
 django.utils.autoreload INFO 2022-09-14 10:23:17,619 autoreload 84932 87436 Watching for file changes with StatReloader
 theme.middleware.demoMiddleware WARNING 2022-09-14 10:45:24,973 demoMiddleware 84932 82012 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 08:33:09,756 autoreload 23524 48848 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:33:20,849 demoMiddleware 23524 6596 Middleware called in new in call
+django.request WARNING 2022-09-15 08:33:20,852 log 23524 6596 Not Found: /
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:33:24,536 demoMiddleware 23524 84436 Middleware called in new in call
+django.request WARNING 2022-09-15 08:33:24,539 log 23524 84436 Not Found: /favicon.ico
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:33:37,219 demoMiddleware 23524 13140 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:33:43,488 demoMiddleware 23524 85140 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:33:46,750 demoMiddleware 23524 54616 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 08:35:31,857 autoreload 23524 48848 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\migrations\0001_initial.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:35:32,999 autoreload 89064 59884 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 08:41:25,037 autoreload 89064 59884 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\migrations\0001_initial.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:41:25,861 autoreload 6088 13372 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 08:42:15,226 autoreload 6088 13372 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\models.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:42:16,109 autoreload 84728 82152 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:42:35,343 demoMiddleware 84728 80988 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 08:43:24,086 autoreload 84728 82152 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\models.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:43:25,054 autoreload 69100 69488 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 08:43:45,801 autoreload 69100 69488 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\migrations\0001_initial.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:43:46,638 autoreload 85040 64036 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:48:46,039 demoMiddleware 85040 67164 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 08:49:13,578 autoreload 85040 64036 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\migrations\0001_initial.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:49:14,377 autoreload 77672 64212 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:49:46,340 demoMiddleware 77672 69664 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 08:50:06,789 autoreload 77672 64212 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\migrations\0001_initial.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:50:07,742 autoreload 79904 68216 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:50:43,269 demoMiddleware 79904 55804 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:50:50,801 demoMiddleware 79904 68416 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 08:51:48,334 autoreload 79904 68216 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\models.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:51:49,145 autoreload 81388 74500 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 08:52:15,208 autoreload 81388 74500 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\models.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:52:16,101 autoreload 66612 77356 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 08:56:41,231 autoreload 66612 77356 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\models.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 08:56:42,046 autoreload 47068 69108 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 08:57:02,052 autoreload 47584 86424 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 08:57:35,108 autoreload 84376 41540 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:57:39,643 demoMiddleware 84376 81404 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:57:46,593 demoMiddleware 84376 83936 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:57:48,924 demoMiddleware 84376 83936 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:57:54,418 demoMiddleware 84376 83936 Middleware called in new in call
+django.request ERROR 2022-09-15 08:59:30,798 log 84376 85732 Internal Server Error: /demo1/addCar/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\car.py", line 20, in addCar
+    return render(request,"car_book/add.html",context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 484, in parse
+    raise self.error(token, e)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 482, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '% url'profile'%' from '% url'profile'%'
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:59:30,817 demoMiddleware 84376 85732 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 08:59:59,929 demoMiddleware 84376 82372 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:00:30,205 demoMiddleware 84376 16588 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:00:30,770 demoMiddleware 84376 16588 Middleware called in new in call
+django.request WARNING 2022-09-15 09:00:30,772 log 84376 16588 Not Found: /favicon.ico
+django.utils.autoreload INFO 2022-09-15 09:01:21,110 autoreload 84376 41540 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 09:01:22,086 autoreload 80924 82916 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:01:32,950 demoMiddleware 80924 88600 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:01:48,269 demoMiddleware 80924 26896 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:02:06,929 demoMiddleware 80924 69008 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:02:20,937 demoMiddleware 80924 88068 Middleware called in new in call
+PIL.Image DEBUG 2022-09-15 09:02:47,335 Image 80924 56092 Importing BlpImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,339 Image 80924 56092 Importing BmpImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,340 Image 80924 56092 Importing BufrStubImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,342 Image 80924 56092 Importing CurImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,344 Image 80924 56092 Importing DcxImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,348 Image 80924 56092 Importing DdsImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,350 Image 80924 56092 Importing EpsImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,381 Image 80924 56092 Importing FitsImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,383 Image 80924 56092 Importing FitsStubImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,386 Image 80924 56092 Importing FliImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,388 Image 80924 56092 Importing FpxImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,390 Image 80924 56092 Image: failed to import FpxImagePlugin: No module named 'olefile'
+PIL.Image DEBUG 2022-09-15 09:02:47,390 Image 80924 56092 Importing FtexImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,392 Image 80924 56092 Importing GbrImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,393 Image 80924 56092 Importing GifImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,393 Image 80924 56092 Importing GribStubImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,394 Image 80924 56092 Importing Hdf5StubImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,396 Image 80924 56092 Importing IcnsImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,400 Image 80924 56092 Importing IcoImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,402 Image 80924 56092 Importing ImImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,405 Image 80924 56092 Importing ImtImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,410 Image 80924 56092 Importing IptcImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,414 Image 80924 56092 Importing JpegImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,414 Image 80924 56092 Importing Jpeg2KImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,414 Image 80924 56092 Importing McIdasImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,418 Image 80924 56092 Importing MicImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,424 Image 80924 56092 Image: failed to import MicImagePlugin: No module named 'olefile'
+PIL.Image DEBUG 2022-09-15 09:02:47,424 Image 80924 56092 Importing MpegImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,427 Image 80924 56092 Importing MpoImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,431 Image 80924 56092 Importing MspImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,435 Image 80924 56092 Importing PalmImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,442 Image 80924 56092 Importing PcdImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,446 Image 80924 56092 Importing PcxImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,446 Image 80924 56092 Importing PdfImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,465 Image 80924 56092 Importing PixarImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,469 Image 80924 56092 Importing PngImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,469 Image 80924 56092 Importing PpmImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,469 Image 80924 56092 Importing PsdImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,473 Image 80924 56092 Importing SgiImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,475 Image 80924 56092 Importing SpiderImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,477 Image 80924 56092 Importing SunImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,479 Image 80924 56092 Importing TgaImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,481 Image 80924 56092 Importing TiffImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,481 Image 80924 56092 Importing WebPImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,587 Image 80924 56092 Importing WmfImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,591 Image 80924 56092 Importing XbmImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,595 Image 80924 56092 Importing XpmImagePlugin
+PIL.Image DEBUG 2022-09-15 09:02:47,599 Image 80924 56092 Importing XVThumbImagePlugin
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:02:47,828 demoMiddleware 80924 56092 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:02:47,843 demoMiddleware 80924 56092 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:02:55,835 demoMiddleware 80924 56092 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:02:55,922 demoMiddleware 80924 56092 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:02:56,097 demoMiddleware 80924 43696 Middleware called in new in call
+django.request WARNING 2022-09-15 09:02:56,098 log 80924 43696 Not Found: /userProfile/logo.jpeg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:03:10,629 demoMiddleware 80924 85436 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:03:10,683 demoMiddleware 80924 85436 Middleware called in new in call
+django.request WARNING 2022-09-15 09:03:10,684 log 80924 85436 Not Found: /userProfile/logo.jpeg
+django.utils.autoreload INFO 2022-09-15 09:04:20,855 autoreload 80924 82916 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 09:04:21,849 autoreload 67448 84304 Watching for file changes with StatReloader
+django.request ERROR 2022-09-15 09:16:56,657 log 67448 45460 Internal Server Error: /demo1/Home/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 7, in index
+    return render(request,"index.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:16:56,681 demoMiddleware 67448 45460 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:17:17,575 demoMiddleware 67448 89156 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:17:18,039 demoMiddleware 67448 83892 Middleware called in new in call
+django.request WARNING 2022-09-15 09:17:18,040 log 67448 83892 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:17:39,252 demoMiddleware 67448 83208 Middleware called in new in call
+django.request WARNING 2022-09-15 09:17:39,252 log 67448 83208 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:17:43,406 demoMiddleware 67448 83208 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:17:55,218 demoMiddleware 67448 89172 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:17:55,239 demoMiddleware 67448 89172 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:17:55,310 demoMiddleware 67448 89172 Middleware called in new in call
+django.request WARNING 2022-09-15 09:17:55,311 log 67448 89172 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:18:07,850 demoMiddleware 67448 4396 Middleware called in new in call
+django.request WARNING 2022-09-15 09:18:07,851 log 67448 4396 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:20:53,852 demoMiddleware 67448 89396 Middleware called in new in call
+django.request WARNING 2022-09-15 09:20:53,852 log 67448 89396 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:22:05,874 demoMiddleware 67448 85816 Middleware called in new in call
+django.request WARNING 2022-09-15 09:22:05,875 log 67448 85816 Not Found: /demo1/Home/images/banner3.jpg
+django.utils.autoreload INFO 2022-09-15 09:27:17,424 autoreload 92136 92140 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:27:21,192 demoMiddleware 92136 43208 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:27:21,670 demoMiddleware 92136 43208 Middleware called in new in call
+django.request WARNING 2022-09-15 09:27:21,672 log 92136 43208 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:28:53,758 demoMiddleware 92136 88744 Middleware called in new in call
+django.request WARNING 2022-09-15 09:28:53,759 log 92136 88744 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:30:59,151 demoMiddleware 92136 80880 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:30:59,238 demoMiddleware 92136 80880 Middleware called in new in call
+django.request WARNING 2022-09-15 09:30:59,238 log 92136 80880 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:31:12,868 demoMiddleware 92136 77764 Middleware called in new in call
+django.request WARNING 2022-09-15 09:31:12,869 log 92136 77764 Not Found: /demo1/Home/images/banner3.jpg
+django.utils.autoreload INFO 2022-09-15 09:32:29,050 autoreload 92136 92140 C:\Users\JINIT\OneDrive\Desktop\Airline\mainApp\urls.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 09:32:30,046 autoreload 90272 90368 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 09:32:58,014 autoreload 90272 90368 C:\Users\JINIT\OneDrive\Desktop\Airline\mainApp\views.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 09:32:58,948 autoreload 89736 79072 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 09:33:11,097 autoreload 89736 79072 C:\Users\JINIT\OneDrive\Desktop\Airline\mainApp\views.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 09:33:12,180 autoreload 91756 78460 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 09:33:25,733 autoreload 91756 78460 C:\Users\JINIT\OneDrive\Desktop\Airline\mainApp\views.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 09:33:26,528 autoreload 78204 68168 Watching for file changes with StatReloader
+django.request ERROR 2022-09-15 09:35:39,083 log 78204 91352 Internal Server Error: /demo1/Home/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 7, in index
+    return render(request,"index.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'book' not found. 'book' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:35:39,095 demoMiddleware 78204 91352 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:39:20,897 demoMiddleware 78204 65860 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:39:21,032 demoMiddleware 78204 65860 Middleware called in new in call
+django.request WARNING 2022-09-15 09:39:21,033 log 78204 65860 Not Found: /userProfile/logo.jpeg
+django.request ERROR 2022-09-15 09:46:48,427 log 78204 89688 Internal Server Error: /demo1/Home/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 7, in index
+    return render(request,"index.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'book' not found. 'book' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:46:48,442 demoMiddleware 78204 89688 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:46:50,516 demoMiddleware 78204 89688 Middleware called in new in call
+django.request ERROR 2022-09-15 09:47:01,617 log 78204 82920 Internal Server Error: /demo1/Home/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 7, in index
+    return render(request,"index.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'book' not found. 'book' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 09:47:01,627 demoMiddleware 78204 82920 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 09:49:08,039 autoreload 78204 68168 C:\Users\JINIT\OneDrive\Desktop\Airline\mainApp\views.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 09:49:10,860 autoreload 92204 74456 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 10:00:12,975 autoreload 76196 89340 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:00:18,209 demoMiddleware 76196 92108 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:00:18,334 demoMiddleware 76196 92108 Middleware called in new in call
+django.request WARNING 2022-09-15 10:00:18,337 log 76196 92108 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:06:13,417 demoMiddleware 76196 19720 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:06:13,519 demoMiddleware 76196 19720 Middleware called in new in call
+django.request WARNING 2022-09-15 10:06:13,520 log 76196 19720 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:06:26,119 demoMiddleware 76196 91476 Middleware called in new in call
+django.request WARNING 2022-09-15 10:06:26,119 log 76196 91476 Not Found: /demo1/Home/images/banner3.jpg
+django.utils.autoreload INFO 2022-09-15 10:08:49,429 autoreload 94096 94116 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 10:09:10,940 autoreload 93688 90232 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:16:29,407 demoMiddleware 93688 93852 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:16:29,597 demoMiddleware 93688 93852 Middleware called in new in call
+django.request WARNING 2022-09-15 10:16:29,598 log 93688 93852 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:16:52,565 demoMiddleware 93688 93852 Middleware called in new in call
+django.request WARNING 2022-09-15 10:16:52,565 log 93688 93852 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:16:56,715 demoMiddleware 93688 93852 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:16:56,800 demoMiddleware 93688 93852 Middleware called in new in call
+django.request WARNING 2022-09-15 10:16:56,800 log 93688 93852 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:17:17,918 demoMiddleware 93688 91408 Middleware called in new in call
+django.request WARNING 2022-09-15 10:17:17,918 log 93688 91408 Not Found: /demo1/Home/images/banner3.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 10:18:59,508 demoMiddleware 93688 93820 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 19:45:01,442 autoreload 90248 48920 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:45:07,886 demoMiddleware 90248 87124 Middleware called in new in call
+django.request WARNING 2022-09-15 19:45:07,886 log 90248 87124 Not Found: /
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:45:08,350 demoMiddleware 90248 69364 Middleware called in new in call
+django.request WARNING 2022-09-15 19:45:08,350 log 90248 69364 Not Found: /favicon.ico
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:45:16,006 demoMiddleware 90248 69364 Middleware called in new in call
+django.request ERROR 2022-09-15 19:45:20,918 log 90248 47352 Internal Server Error: /demo1/Book/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 19, in book
+    return render(request,"book.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:45:20,948 demoMiddleware 90248 47352 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,560 demoMiddleware 90248 91120 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,663 demoMiddleware 90248 87284 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,663 demoMiddleware 90248 91120 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,671 demoMiddleware 90248 95128 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,663 log 90248 87284 Not Found: /demo1/Book/css/layout.css
+django.request WARNING 2022-09-15 19:46:35,671 log 90248 91120 Not Found: /demo1/Book/css/reset.css
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,679 demoMiddleware 90248 51436 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,677 log 90248 95128 Not Found: /demo1/Book/css/style.css
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,689 demoMiddleware 90248 87020 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,697 demoMiddleware 90248 93920 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,679 log 90248 51436 Not Found: /demo1/Book/js/cufon-yui.js
+django.request WARNING 2022-09-15 19:46:35,697 log 90248 87020 Not Found: /demo1/Book/js/jquery-1.5.2.js
+django.request WARNING 2022-09-15 19:46:35,705 log 90248 93920 Not Found: /demo1/Book/js/cufon-replace.js
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,729 demoMiddleware 90248 73132 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,729 log 90248 73132 Not Found: /demo1/Book/js/Cabin_400.font.js
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,755 demoMiddleware 90248 91120 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,755 log 90248 91120 Not Found: /demo1/Book/js/tabs.js
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,772 demoMiddleware 90248 95128 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,784 demoMiddleware 90248 51436 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,774 log 90248 95128 Not Found: /demo1/Book/js/jquery.jqtransform.js
+django.request WARNING 2022-09-15 19:46:35,793 log 90248 51436 Not Found: /demo1/Book/js/jquery.nivo.slider.pack.js
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,810 demoMiddleware 90248 87020 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,810 log 90248 87020 Not Found: /demo1/Book/js/atooltip.jquery.js
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,820 demoMiddleware 90248 93920 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,821 log 90248 93920 Not Found: /demo1/Book/js/script.js
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,881 demoMiddleware 90248 93920 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,888 demoMiddleware 90248 87020 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,886 log 90248 93920 Not Found: /demo1/Book/images/icon1.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,893 demoMiddleware 90248 73132 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,895 demoMiddleware 90248 51436 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,894 log 90248 87020 Not Found: /demo1/Book/images/icon2.jpg
+django.request WARNING 2022-09-15 19:46:35,895 log 90248 73132 Not Found: /demo1/Book/images/icon6.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,903 demoMiddleware 90248 91120 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:46:35,914 demoMiddleware 90248 95128 Middleware called in new in call
+django.request WARNING 2022-09-15 19:46:35,903 log 90248 51436 Not Found: /demo1/Book/images/icon3.jpg
+django.request WARNING 2022-09-15 19:46:35,914 log 90248 91120 Not Found: /demo1/Book/images/icon5.jpg
+django.request WARNING 2022-09-15 19:46:35,919 log 90248 95128 Not Found: /demo1/Book/images/icon4.jpg
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:47:40,094 demoMiddleware 90248 55712 Middleware called in new in call
+django.request ERROR 2022-09-15 19:56:04,985 log 90248 89416 Internal Server Error: /demo1/Book/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 19, in book
+    return render(request,"book.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 7: 'static'. Did you forget to register or load this tag?
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:56:05,022 demoMiddleware 90248 89416 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:56:27,537 demoMiddleware 90248 95160 Middleware called in new in call
+django.request ERROR 2022-09-15 19:59:43,398 log 90248 96232 Internal Server Error: /demo1/Book/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: "'Home'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 19, in book
+    return render(request,"book.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 33: ''Home''. Did you forget to register or load this tag?
+theme.middleware.demoMiddleware WARNING 2022-09-15 19:59:43,403 demoMiddleware 90248 96232 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:00:26,345 demoMiddleware 90248 59544 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:00:29,728 demoMiddleware 90248 59544 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:00:33,870 demoMiddleware 90248 91912 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 20:04:29,020 autoreload 90248 48920 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\urls\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 20:04:30,716 autoreload 55092 85140 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 20:05:15,965 autoreload 55092 85140 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 20:05:17,517 autoreload 92396 73324 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 20:08:36,770 autoreload 53004 60208 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:08:46,370 demoMiddleware 53004 77704 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:08:48,370 demoMiddleware 53004 77704 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:08:53,707 demoMiddleware 53004 77704 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 20:09:20,233 autoreload 53004 60208 C:\Users\JINIT\OneDrive\Desktop\Airline\mainApp\urls.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 20:09:21,897 autoreload 96968 74612 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:09:58,525 demoMiddleware 96968 95240 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 20:11:28,997 autoreload 96968 74612 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 20:11:30,271 autoreload 80608 89808 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 20:11:36,523 autoreload 80608 89808 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\urls\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 20:11:37,964 autoreload 96504 71172 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:53:50,549 demoMiddleware 96504 85888 Middleware called in new in call
+django.request WARNING 2022-09-15 20:53:50,557 log 96504 85888 Not Found: /demo1/offers/
+django.request ERROR 2022-09-15 20:54:05,879 log 96504 90284 Internal Server Error: /demo1/offer/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 19, in book
+    return render(request,"book.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Book' not found. 'Book' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:54:05,912 demoMiddleware 96504 90284 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:54:46,465 demoMiddleware 96504 73904 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:54:49,931 demoMiddleware 96504 91628 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:55:23,249 demoMiddleware 96504 75320 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 20:56:30,465 autoreload 96504 71172 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 20:56:31,770 autoreload 77056 82620 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:57:28,422 demoMiddleware 77056 94796 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:57:29,936 demoMiddleware 77056 94796 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:57:39,328 demoMiddleware 77056 12428 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:57:46,089 demoMiddleware 77056 12428 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 20:58:44,664 autoreload 87468 48848 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:58:48,820 demoMiddleware 87468 90436 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:58:50,548 demoMiddleware 87468 90436 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:58:51,870 demoMiddleware 87468 90436 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:58:54,638 demoMiddleware 87468 90436 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:58:55,375 demoMiddleware 87468 90436 Middleware called in new in call
+django.request ERROR 2022-09-15 20:59:03,222 log 87468 50632 Internal Server Error: /demo1/Home/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: "'Home'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 8, in index
+    return render(request,"index.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 42: ''Home''. Did you forget to register or load this tag?
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:59:03,252 demoMiddleware 87468 50632 Middleware called in new in call
+django.request ERROR 2022-09-15 20:59:56,541 log 87468 89016 Internal Server Error: /demo1/Home/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: "'Home'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 8, in index
+    return render(request,"index.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 42: ''Home''. Did you forget to register or load this tag?
+theme.middleware.demoMiddleware WARNING 2022-09-15 20:59:56,586 demoMiddleware 87468 89016 Middleware called in new in call
+django.request ERROR 2022-09-15 21:01:40,266 log 87468 92248 Internal Server Error: /demo1/Home/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 8, in index
+    return render(request,"index.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'offers' not found. 'offers' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:01:40,290 demoMiddleware 87468 92248 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:01:54,050 demoMiddleware 87468 91096 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:02:00,620 demoMiddleware 87468 71152 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:02:03,373 demoMiddleware 87468 71152 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:02:04,719 demoMiddleware 87468 71152 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:02:11,273 demoMiddleware 87468 65940 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:02:12,967 demoMiddleware 87468 65940 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:04:51,775 demoMiddleware 87468 60948 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:04:55,212 demoMiddleware 87468 71416 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:04:57,684 demoMiddleware 87468 71416 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 21:05:53,852 autoreload 87468 48848 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\urls\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:05:55,525 autoreload 54036 91252 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:05:58,111 demoMiddleware 54036 90548 Middleware called in new in call
+django.request ERROR 2022-09-15 21:05:59,515 log 54036 90548 Internal Server Error: /demo1/offer/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 22, in offer
+    return render(request,"offers.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Book' not found. 'Book' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:05:59,530 demoMiddleware 54036 90548 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:06:32,308 demoMiddleware 54036 46072 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:06:45,190 demoMiddleware 54036 52376 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:06:52,139 demoMiddleware 54036 40720 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:06:55,358 demoMiddleware 54036 56120 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 21:21:15,184 autoreload 54036 91252 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:21:16,759 autoreload 93288 86400 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 21:21:36,611 autoreload 93288 86400 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\urls\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:21:38,125 autoreload 97304 97316 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:32:30,884 demoMiddleware 97304 82184 Middleware called in new in call
+django.request ERROR 2022-09-15 21:32:34,085 log 97304 82184 Internal Server Error: /demo1/services/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 25, in services
+    return render(request,"services.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'home' not found. 'home' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:32:34,118 demoMiddleware 97304 82184 Middleware called in new in call
+django.request ERROR 2022-09-15 21:33:15,069 log 97304 91460 Internal Server Error: /demo1/services/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 25, in services
+    return render(request,"services.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'offers' not found. 'offers' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:33:15,083 demoMiddleware 97304 91460 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:33:47,676 demoMiddleware 97304 96000 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:33:52,460 demoMiddleware 97304 97140 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:33:53,372 demoMiddleware 97304 97140 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:33:54,695 demoMiddleware 97304 97140 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:33:56,162 demoMiddleware 97304 97140 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 21:40:25,658 autoreload 97304 97316 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:40:27,244 autoreload 31044 95192 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 21:41:07,178 autoreload 31044 95192 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\urls\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:41:08,317 autoreload 85020 93416 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:43:30,165 demoMiddleware 85020 94276 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:43:31,087 demoMiddleware 85020 94276 Middleware called in new in call
+django.request WARNING 2022-09-15 21:43:31,087 log 85020 94276 Not Found: /demo1/services/safety.html
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:44:08,737 demoMiddleware 85020 94276 Middleware called in new in call
+django.request WARNING 2022-09-15 21:44:08,737 log 85020 94276 Not Found: /demo1/services/safety.html
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:44:14,564 demoMiddleware 85020 94276 Middleware called in new in call
+django.request WARNING 2022-09-15 21:44:14,564 log 85020 94276 Not Found: /demo1/services/safety.html
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:45:19,828 demoMiddleware 85020 85824 Middleware called in new in call
+django.request WARNING 2022-09-15 21:45:19,830 log 85020 85824 Not Found: /demo1/services/safety.html
+django.utils.autoreload INFO 2022-09-15 21:45:34,298 autoreload 85020 93416 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\urls\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:45:35,668 autoreload 85024 77512 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:45:36,197 demoMiddleware 85024 97628 Middleware called in new in call
+django.request WARNING 2022-09-15 21:45:36,197 log 85024 97628 Not Found: /demo1/services/safety.html
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:45:40,121 demoMiddleware 85024 97628 Middleware called in new in call
+django.request ERROR 2022-09-15 21:45:41,126 log 85024 95368 Internal Server Error: /demo1/safety/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 28, in safety
+    return render(request,"safety.html"),
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:45:41,154 demoMiddleware 85024 95368 Middleware called in new in call
+django.request ERROR 2022-09-15 21:46:25,260 log 85024 68156 Internal Server Error: /demo1/safety/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 28, in safety
+    return render(request,"safety.html"),
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 62, in render
+    return self.template.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 472, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'offers' not found. 'offers' is not a valid view function or pattern name.
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:46:25,268 demoMiddleware 85024 68156 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:46:51,134 demoMiddleware 85024 50240 Middleware called in new in call
+django.request ERROR 2022-09-15 21:46:51,182 log 85024 50240 Internal Server Error: /demo1/safety/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+AttributeError: 'tuple' object has no attribute 'get'
+django.utils.autoreload INFO 2022-09-15 21:47:35,392 autoreload 85024 77512 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:47:36,741 autoreload 93056 74292 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:47:37,072 demoMiddleware 93056 53896 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:47:43,282 demoMiddleware 93056 84868 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:47:44,324 demoMiddleware 93056 84868 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:47:45,476 demoMiddleware 93056 84868 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:04,150 demoMiddleware 93056 92220 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:05,088 demoMiddleware 93056 92220 Middleware called in new in call
+django.request WARNING 2022-09-15 21:48:05,089 log 93056 92220 Not Found: /favicon.ico
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:11,234 demoMiddleware 93056 94244 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:11,268 demoMiddleware 93056 94244 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:17,531 demoMiddleware 93056 94244 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:21,518 demoMiddleware 93056 94244 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:28,147 demoMiddleware 93056 54520 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:30,042 demoMiddleware 93056 54520 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:48:30,910 demoMiddleware 93056 54520 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-15 21:52:43,258 autoreload 93056 74292 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:52:44,333 autoreload 97804 97844 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-15 21:53:07,202 autoreload 97804 97844 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\urls\auth.py changed, reloading.
+django.utils.autoreload INFO 2022-09-15 21:53:08,357 autoreload 96500 97364 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:55:11,157 demoMiddleware 96500 66932 Middleware called in new in call
+django.request ERROR 2022-09-15 21:55:12,431 log 96500 66932 Internal Server Error: /demo1/contacts/
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\auth.py", line 31, in contacts
+    return render(request,"contacts.html")
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\JINIT\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:55:12,472 demoMiddleware 96500 66932 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:55:31,907 demoMiddleware 96500 93680 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:55:36,937 demoMiddleware 96500 91660 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:55:37,552 demoMiddleware 96500 91660 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:55:38,579 demoMiddleware 96500 91660 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:55:39,344 demoMiddleware 96500 91660 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:55:42,735 demoMiddleware 96500 70832 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:56:24,904 demoMiddleware 96500 97948 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:56:27,304 demoMiddleware 96500 90496 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:56:28,809 demoMiddleware 96500 90496 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:56:29,587 demoMiddleware 96500 90496 Middleware called in new in call
+django.request WARNING 2022-09-15 21:56:29,595 log 96500 90496 Not Found: /demo1/safety/contacts.html
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:58:42,395 demoMiddleware 96500 92044 Middleware called in new in call
+django.request WARNING 2022-09-15 21:58:42,395 log 96500 92044 Not Found: /demo1/safety/contacts.html
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:58:47,199 demoMiddleware 96500 59684 Middleware called in new in call
+django.request WARNING 2022-09-15 21:58:47,199 log 96500 59684 Not Found: /demo1/safety/contacts.html
+django.utils.autoreload INFO 2022-09-15 21:59:16,863 autoreload 94028 98112 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:59:18,753 demoMiddleware 94028 97344 Middleware called in new in call
+django.request WARNING 2022-09-15 21:59:18,753 log 94028 97344 Not Found: /demo1/safety/contacts.html
+theme.middleware.demoMiddleware WARNING 2022-09-15 21:59:22,909 demoMiddleware 94028 97344 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:00,238 demoMiddleware 94028 89988 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:02,379 demoMiddleware 94028 89988 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:04,550 demoMiddleware 94028 89988 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:06,970 demoMiddleware 94028 89988 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:08,278 demoMiddleware 94028 94524 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:09,792 demoMiddleware 94028 94524 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:53,075 demoMiddleware 94028 98068 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:54,939 demoMiddleware 94028 98068 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-15 22:00:56,728 demoMiddleware 94028 98068 Middleware called in new in call
