@@ -1,0 +1,84 @@
+Watching for file changes with StatReloader
+Platform is running at risk
+C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+INFO Watching for file changes with StatReloader
+WARNING Platform is running at risk
+INFO C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+django.utils.autoreload INFO 2022-09-13 09:44:35,906 autoreload 58340 61680 Watching for file changes with StatReloader
+theme.views.category WARNING 2022-09-13 09:45:38,452 category 58340 70176 Platform is running at risk
+theme.views.category WARNING 2022-09-13 09:45:54,129 category 58340 39892 Platform is running at risk
+theme.views.category WARNING 2022-09-13 09:57:56,355 category 58340 63904 Platform is running at risk
+theme.views.category WARNING 2022-09-13 10:05:36,086 category 58340 67940 Platform is running at risk
+theme.views.category WARNING 2022-09-13 10:06:52,162 category 58340 68908 Platform is running at risk
+theme.views.category WARNING 2022-09-13 10:07:59,724 category 58340 68068 Platform is running at risk
+theme.views.category WARNING 2022-09-13 10:16:08,615 category 58340 72860 Platform is running at risk
+theme.views.category WARNING 2022-09-13 10:35:16,179 category 58340 68276 Platform is running at risk
+theme.views.category WARNING 2022-09-13 10:36:45,552 category 58340 76704 Platform is running at risk
+theme.views.category WARNING 2022-09-13 10:38:51,099 category 58340 61620 Platform is running at risk
+django.utils.autoreload INFO 2022-09-14 08:24:02,651 autoreload 57996 68216 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 08:36:00,983 autoreload 74904 74660 Watching for file changes with StatReloader
+django.request WARNING 2022-09-14 08:36:06,675 log 74904 67456 Not Found: /
+django.request WARNING 2022-09-14 08:36:07,164 log 74904 67456 Not Found: /favicon.ico
+theme.views.category WARNING 2022-09-14 08:36:22,465 category 74904 8480 Platform is running at risk
+theme.views.category WARNING 2022-09-14 08:37:36,338 category 74904 75108 Platform is running at risk
+django.utils.autoreload INFO 2022-09-14 08:43:50,576 autoreload 72456 61508 Watching for file changes with StatReloader
+theme.views.category WARNING 2022-09-14 08:44:52,913 category 72456 53420 Platform is running at risk
+django.request WARNING 2022-09-14 08:46:42,574 log 72456 76032 Not Found: /favicon.ico
+theme.views.category WARNING 2022-09-14 08:46:58,946 category 72456 71668 Platform is running at risk
+theme.views.category WARNING 2022-09-14 08:49:24,243 category 72456 77776 Platform is running at risk
+theme.views.category WARNING 2022-09-14 08:49:35,762 category 72456 42036 Platform is running at risk
+theme.views.category WARNING 2022-09-14 08:49:55,568 category 72456 69304 Platform is running at risk
+theme.views.category WARNING 2022-09-14 08:50:46,004 category 72456 44420 Platform is running at risk
+django.utils.autoreload INFO 2022-09-14 08:50:50,502 autoreload 72456 61508 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\category.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 08:50:51,634 autoreload 68636 77072 Watching for file changes with StatReloader
+theme.views.category WARNING 2022-09-14 08:51:03,149 category 68636 76808 Platform is running at risk
+django.utils.autoreload INFO 2022-09-14 08:53:54,100 autoreload 68636 77072 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\category.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 08:53:54,981 autoreload 79684 53036 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 08:53:59,821 autoreload 79684 53036 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\category.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 08:54:00,659 autoreload 79064 51960 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 08:54:11,936 autoreload 79064 51960 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\category.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 08:54:12,746 autoreload 62752 20128 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 08:54:31,341 autoreload 67964 63128 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 08:54:53,707 autoreload 67964 63128 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\category.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 08:54:54,542 autoreload 55232 76060 Watching for file changes with StatReloader
+theme.views.category WARNING 2022-09-14 08:55:04,581 category 55232 57576 Platform is running at risk
+django.utils.autoreload INFO 2022-09-14 08:56:05,305 autoreload 55232 76060 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\category.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 08:56:06,074 autoreload 44012 47336 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 08:56:10,119 autoreload 44012 47336 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\category.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 08:56:11,141 autoreload 76224 79264 Watching for file changes with StatReloader
+django.request WARNING 2022-09-14 08:56:54,991 log 76224 30148 Not Found: /demo1/addCategory/index3.html
+django.utils.autoreload INFO 2022-09-14 09:00:13,025 autoreload 76224 79264 C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:00:13,852 autoreload 55636 72392 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:07:13,632 autoreload 55636 72392 C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:07:14,905 autoreload 58084 79636 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:09:00,707 autoreload 58084 79636 C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:09:01,472 autoreload 79620 51168 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:22:10,046 autoreload 79620 51168 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\middleware\demoMiddleware.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:22:11,576 autoreload 78944 63812 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:22:47,988 autoreload 78944 63812 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\middleware\demoMiddleware.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:22:48,941 autoreload 35248 63412 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:22:59,234 autoreload 35248 63412 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\middleware\demoMiddleware.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:23:00,052 autoreload 74436 80024 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:38:47,457 autoreload 64544 83784 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:40:41,549 autoreload 64544 83784 C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:40:41,809 autoreload 74436 80024 C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:40:44,555 autoreload 80548 2236 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:40:47,773 autoreload 73508 81396 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:42:39,308 autoreload 80548 2236 C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:42:39,343 autoreload 73508 81396 C:\Users\JINIT\OneDrive\Desktop\Airline\Airline\settings.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 09:42:41,798 autoreload 82284 19624 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 09:42:41,876 autoreload 82292 69028 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-14 09:42:50,759 demoMiddleware 82284 73608 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-14 09:42:50,864 demoMiddleware 82284 73608 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-14 09:42:53,395 demoMiddleware 82284 73608 Middleware called in new in call
+theme.views.category WARNING 2022-09-14 09:42:58,732 category 82284 73608 Platform is running at risk
+theme.middleware.demoMiddleware WARNING 2022-09-14 09:42:58,734 demoMiddleware 82284 73608 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-14 09:42:58,751 demoMiddleware 82284 73608 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-14 09:46:09,021 autoreload 80076 83096 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 10:20:57,611 autoreload 81616 87080 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-14 10:21:06,470 demoMiddleware 81616 86344 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-14 10:22:36,946 autoreload 81616 87080 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\middleware\demoMiddleware.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 10:22:38,766 autoreload 58276 85168 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-14 10:23:15,910 autoreload 58276 85168 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\middleware\demoMiddleware.py changed, reloading.
+django.utils.autoreload INFO 2022-09-14 10:23:17,619 autoreload 84932 87436 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-14 10:45:24,973 demoMiddleware 84932 82012 Middleware called in new in call

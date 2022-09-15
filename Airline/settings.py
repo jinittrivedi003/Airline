@@ -44,9 +44,38 @@ INSTALLED_APPS = [
     'crispy_forms',
     
 ]
+LOGGING={
+    'version':1,
+    'disable_existing_loggers':False,
+    'handlers':{
+        'file':{
+            'class':'logging.FileHandler',
+            'filename':'general.log',
+            'formatter':'verbose',
+        },
+    },
+    'loggers':{
+        '':{
+            'level':'DEBUG',
+            'handlers':['file'],
+        },
+    },
+    'formatters':{
+        'verbose':{
+            'format':'{name} {levelname} {asctime} {module} {process:d} {thread:d} {message}',
+            'style':'{',
+        },
+        'simple':{
+            'format':'{levelname} {message}',
+            'style':'{',
+        },
+    },
+}
+
 AUTH_USER_MODEL='theme.UserModel'
 CRISPY_TEMPLATE_PACK='bootstrap4'
 LOGIN_REDIRECT_URL='Home'
+MESSAGE_STORAGE='django.contrib.messages.storage.cookie.CookieStorage'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -56,6 +85,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'theme.middleware.demoMiddleware.demoMiddleware',
 ]
 
 ROOT_URLCONF = 'Airline.urls'

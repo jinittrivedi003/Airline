@@ -1,3 +1,4 @@
+from ast import Return
 from http.client import HTTPResponse
 from django.shortcuts import get_object_or_404,render,redirect
 from ..models import CategoryModel
@@ -7,6 +8,9 @@ from ..forms.category_form import CategoryForm
 #from ..models import Category
 from django.http import HttpResponse
 import csv
+from django.contrib import messages
+import logging
+logger=logging.getLogger(__name__)
 
 def viewCategory(request):
     context={}
@@ -18,6 +22,9 @@ def addCategory(request):
     form=CategoryForm(request.POST or None)
     if form.is_valid():
         form.save()
+        # messages.add_message(request,messages.INFO,'Successsfully Created.')
+        messages.error(request,'Successsfully Created.')
+        logger.warning('Platform is running at risk')
         return redirect( "viewCategory")
     context['form']=form
     return render(request,"category/add.html",context)
@@ -64,7 +71,10 @@ def upload_csv(request):
 
         cform=CategoryForm(data_dict)
         if cform.is_valid():
+
             cform.save()
+            messages.error(request,'Successsfully Created.')
+
     return redirect("viewCategory")
 
 def download_csv(request):

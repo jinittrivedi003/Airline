@@ -366,6 +366,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- Main content -->
     <div class="content">
       <div class="container-fluid">
+        {% if messages %}
+<ul class="messages">
+    {% for message in messages %}
+    <li {% if messages.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
         <div class="row">
           {% block content%}
 
