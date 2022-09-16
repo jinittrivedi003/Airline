@@ -20,9 +20,9 @@ def addBooking(request):
     context['form']=form
     return render(request,"booking/add.html",context)
 
-def updateBooking(request,id):
+def updateBooking(request,Booking_id):
     context={}
-    obj=get_object_or_404(BookingModel,id=id)
+    obj=get_object_or_404(BookingModel,Booking_id=Booking_id)
     form=BookingForm(request.POST or None,instance=obj)
     if form.is_valid():
         form.save()
@@ -30,9 +30,9 @@ def updateBooking(request,id):
     context["form"]=form
     return render(request,"booking/edit.html",context)
 
-def deleteBooking(request,id):
+def deleteBooking(request,Booking_id):
     context={}
-    obj=get_object_or_404(BookingModel,id=id)
+    obj=get_object_or_404(BookingModel,Booking_id=Booking_id)
     if request.method=="GET":
         obj.delete()
         return redirect("viewBooking")

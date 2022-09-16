@@ -32,7 +32,7 @@ class CargoModel(models.Model):
     Product=models.CharField(max_length=30)
 
 class BookingModel(models.Model):
-    Booking_id=models.CharField(max_length=8,null=False,blank=False)
+    Booking_id=models.CharField(max_length=8,null=False,blank=False,unique=True,primary_key=True)
     Firstname=models.CharField(max_length=25)
     Lastname=models.CharField(max_length=10)
     Mobile_number=models.CharField(max_length=12,null=False,blank=False)
@@ -42,7 +42,20 @@ class CarModel(models.Model):
     Dropoff=models.CharField(max_length=20)
     PickupDate=models.DateField()
     PickupTime=models.TimeField()
+
+class CancellationModel(models.Model):
+    Cancel_id=models.CharField(max_length=10,unique=True,primary_key=True)
+    Booking_id=models.ForeignKey("BookingModel",on_delete=models.CASCADE)
+    Cancel_Date=models.DateField()
+    Refund_Money=models.CharField(max_length=20)
     
+class BranchModel(models.Model):
+    Branch_code=models.CharField(max_length=10,unique=True,null=False,primary_key=True)
+    Add1=models.TextField(max_length=100)
+    Add2=models.TextField(max_length=100)
+    City=models.CharField(max_length=20)
+    Telephone=models.CharField(max_length=10)
+
 def __str__(self):
     return self.title
 

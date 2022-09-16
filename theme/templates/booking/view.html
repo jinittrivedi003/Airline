@@ -30,10 +30,9 @@
                     <td>{{ data.Booking_id }}</td>
                     <td>{{ data.Firstname }}</td>
                     <td>{{ data.Lastname }}</td>
-                    <td>{{ data.Mobile_number }}</td>
-                        <a href="{% url 'updateBooking' data.id %}" class="btn btn-success"><i class="fa fa-edit"></i></a>
-                        <a href="{% url 'deleteBooking' data.id %}" class="btn btn-danger"><i class="fa fa-trash"></i></a>
-                
+                    <td>{{ data.Mobile_number }}
+                        <a href="{% url 'updateBooking' data.Booking_id %}" class="btn btn-success"><i class="fa fa-edit"></i></a>
+                        <a href="{% url 'deleteBooking' data.Booking_id %}" class="btn btn-danger"><i class="fa fa-trash"></i></a>
                     </td>
                    
                 </tr>

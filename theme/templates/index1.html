@@ -199,143 +199,85 @@ scratch. This page gets rid of all links and provides the needed markup only.
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
                <li class="nav-item menu-open">
-                <a href="#" class="nav-link active">
-                  <i class="nav-icon fas fa-tachometer-alt"></i>
-                  <p>
-                    Category
-                    <i class="right fas fa-angle-left"></i>
-                  </p>
-                </a>
-                <ul class="nav nav-treeview">
-                  <li class="nav-item">
-                    <a href="{% url 'viewCategory' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>View Category</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="{% url 'addCategory' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>Add Category</p>
-                    </a>
-                  </li>
-                </ul>
-              </li>    
+                <details>
+                  <summary class=""nav-item menu-open" style="padding: 10px 18px; background-color: #007bff; color: #fff; border-radius: 5px;" >
+                  Category
+                  </summary>
+                  <a href="{% url 'addCategory' %}"> Add Category </a>
+                  <br/>
+                  <a href="{% url 'viewCategory' %}"> View Category </a>
+                </details>
+              </li> </br> 
               <li class="nav-item menu-open">
-                <a href="#" class="nav-link active">
-                  <i class="nav-icon fas fa-tachometer-alt"></i>
-                  <p>
-                    Airline
-                    <i class="right fas fa-angle-left"></i>
-                  </p>
-                </a>
-                <ul class="nav nav-treeview">
-                  <li class="nav-item">
-                    <a href="{% url 'viewAirline' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>View Airline</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="{% url 'addAirline' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>Add Airline</p>
-                    </a>
-                  </li>
-                </ul>
-              </li>    
+                <details>
+                  <summary class=""nav-item menu-open" style="padding: 10px 18px; background-color: #007bff; color: #fff; border-radius: 5px;" >
+                  Airline
+                  </summary>
+                  <a href="{% url 'addAirline' %}"> Add Airline </a>
+                  <br/>
+                  <a href="{% url 'viewAirline' %}"> View Airline </a>
+                </details>
+              </li> </br>
               <li class="nav-item menu-open">
-                <a href="#" class="nav-link active">
-                  <i class="nav-icon fas fa-tachometer-alt"></i>
-                  <p>
-                    Flight Status
-                    <i class="right fas fa-angle-left"></i>
-                  </p>
-                </a>
-                <ul class="nav nav-treeview">
-                  <li class="nav-item">
-                    <a href="{% url 'viewStatus' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>View Status</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="{% url 'addStatus' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>Add Status</p>
-                    </a>
-                  </li>
-                </ul>
-              </li>    
+                <details>
+                  <summary class=""nav-item menu-open" style="padding: 10px 18px; background-color: #007bff; color: #fff; border-radius: 5px;" >
+                  Flight Status
+                  </summary>
+                  <a href="{% url 'addStatus' %}"> Add Status </a>
+                  <br/>
+                  <a href="{% url 'viewStatus' %}"> View Status </a>
+                </details>
+              </li> </br>
               <li class="nav-item menu-open">
-                <a href="#" class="nav-link active">
-                  <i class="nav-icon fas fa-tachometer-alt"></i>
-                  <p>
-                    Cargo Flights
-                    <i class="right fas fa-angle-left"></i>
-                  </p>
-                </a>
-                <ul class="nav nav-treeview">
-                  <li class="nav-item">
-                    <a href="{% url 'viewCargo' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>View Flights</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="{% url 'addCargo' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>Add Cargo</p>
-                    </a>
-                  </li>
-                </ul>
-              </li>    
+                <details>
+                  <summary class=""nav-item menu-open" style="padding: 10px 18px; background-color: #007bff; color: #fff; border-radius: 5px;" >
+                  Cargo Flights
+                  </summary>
+                  <a href="{% url 'addCargo' %}"> Add Cargo </a>
+                  <br/>
+                  <a href="{% url 'viewCargo' %}"> View Cargo Flight </a>
+                </details>
+              </li> </br>
               <li class="nav-item menu-open">
-                <a href="#" class="nav-link active">
-                  <i class="nav-icon fas fa-tachometer-alt"></i>
-                  <p>
-                    Bookings
-                    <i class="right fas fa-angle-left"></i>
-                  </p>
-                </a>
-                <ul class="nav nav-treeview">
-                  <li class="nav-item">
-                    <a href="{% url 'viewBooking' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>View Booking</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="{% url 'addBooking' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>Add Booking</p>
-                    </a>
-                  </li>
-                </ul>
-              </li>    
+                <details>
+                  <summary class=""nav-item menu-open" style="padding: 10px 18px; background-color: #007bff; color: #fff; border-radius: 5px;" >
+                  Bookings
+                  </summary>
+                  <a href="{% url 'addBooking' %}"> Add Booking </a>
+                  <br/>
+                  <a href="{% url 'viewBooking' %}"> View Bookings </a>
+                </details>
+              </li> </br>              
               <li class="nav-item menu-open">
-                <a href="#" class="nav-link active">
-                  <i class="nav-icon fas fa-tachometer-alt"></i>
-                  <p>
-                    Car Rentals
-                    <i class="right fas fa-angle-left"></i>
-                  </p>
-                </a>
-                <ul class="nav nav-treeview">
-                  <li class="nav-item">
-                    <a href="{% url 'viewCar' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>View Car</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="{% url 'addCar' %}" class="nav-link">
-                      <i class="far fa-circle nav-icon"></i>
-                      <p>Add Car</p>
-                    </a>
-                  </li>
-                </ul>
-              </li>    
+                <details>
+                  <summary class=""nav-item menu-open" style="padding: 10px 18px; background-color: #007bff; color: #fff; border-radius: 5px;" >
+                  Car Rentals
+                  </summary>
+                  <a href="{% url 'addCar' %}"> Add Car </a>
+                  <br/>
+                  <a href="{% url 'viewCar' %}"> View Car </a>
+                </details>
+              </li> </br> 
+              <li class="nav-item menu-open">
+                <details>
+                  <summary class=""nav-item menu-open" style="padding: 10px 18px; background-color: #007bff; color: #fff; border-radius: 5px;" >
+                  Cancellations
+                  </summary>
+                  <a href="{% url 'addCancel' %}">Make Cancellations </a>
+                  <br/>
+                  <a href="{% url 'viewCancel' %}">View Cancellations </a>
+                </details>
+              </li> </br>
+              <li class="nav-item menu-open">
+                <details>
+                  <summary class=""nav-item menu-open" style="padding: 10px 18px; background-color: #007bff; color: #fff; border-radius: 5px;" >
+                  Branch
+                  </summary>
+                  <a href="{% url 'addBranch' %}">Add Branch </a>
+                  <br/>
+                  <a href="{% url 'viewBranch' %}">View Branch </a>
+                </details>
+              </li> </br>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
