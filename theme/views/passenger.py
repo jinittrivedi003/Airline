@@ -15,9 +15,9 @@ def addPassenger(request):
     form=PassengerForm(request.POST or None)
     if form.is_valid():
         form.save()
-        return redirect( "viewAirline")
+        return redirect( "viewPassenger")
     context['form']=form
-    return render(request,"Passenger/add.html",context)
+    return render(request,"passenger/add.html",context)
 
 def updatePassenger(request,Reg_id):
     context={}
@@ -27,7 +27,7 @@ def updatePassenger(request,Reg_id):
         form.save()
         return redirect("viewPassenger")
     context["form"]=form
-    return render(request,"Passenger/edit.html",context)
+    return render(request,"passenger/edit.html",context)
 
 def deletePassenger(request,Reg_id):
     context={}

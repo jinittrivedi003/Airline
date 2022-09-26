@@ -3436,3 +3436,51 @@ theme.middleware.demoMiddleware WARNING 2022-09-26 12:55:46,488 demoMiddleware 7
 theme.middleware.demoMiddleware WARNING 2022-09-26 12:56:28,987 demoMiddleware 79916 76172 Middleware called in new in call
 theme.middleware.demoMiddleware WARNING 2022-09-26 12:56:40,598 demoMiddleware 79916 55536 Middleware called in new in call
 theme.middleware.demoMiddleware WARNING 2022-09-26 12:56:44,672 demoMiddleware 79916 55536 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 12:58:06,516 demoMiddleware 79916 77716 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 12:58:58,187 demoMiddleware 79916 74804 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 12:59:19,158 demoMiddleware 79916 76156 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:00:59,425 demoMiddleware 79916 66548 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:00:59,478 demoMiddleware 79916 79136 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-26 13:02:08,036 autoreload 79916 77124 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\models.py changed, reloading.
+django.utils.autoreload INFO 2022-09-26 13:02:09,771 autoreload 76860 74492 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-26 13:02:24,607 autoreload 76860 74492 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\models.py changed, reloading.
+django.utils.autoreload INFO 2022-09-26 13:02:26,643 autoreload 77640 76980 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:02:35,035 demoMiddleware 77640 77440 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:09:18,622 demoMiddleware 77640 64444 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:19:10,491 demoMiddleware 77640 81884 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:19:10,559 demoMiddleware 77640 60264 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:19:59,027 demoMiddleware 77640 81884 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:25:41,534 demoMiddleware 77640 13116 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:27:13,350 demoMiddleware 77640 13116 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:27:23,566 demoMiddleware 77640 13116 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:27:25,624 demoMiddleware 77640 13116 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:27:33,576 demoMiddleware 77640 13116 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:28:06,387 demoMiddleware 77640 81512 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:28:10,561 demoMiddleware 77640 81512 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:28:19,387 demoMiddleware 77640 81512 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:28:24,821 demoMiddleware 77640 81512 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:28:26,332 demoMiddleware 77640 81512 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:29:31,795 demoMiddleware 77640 81512 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:29:31,851 demoMiddleware 77640 81512 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:29:31,951 demoMiddleware 77640 81512 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:29:44,268 demoMiddleware 77640 81512 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-26 13:30:42,633 autoreload 77640 76980 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\passenger.py changed, reloading.
+django.utils.autoreload INFO 2022-09-26 13:30:44,800 autoreload 75892 62632 Watching for file changes with StatReloader
+django.utils.autoreload INFO 2022-09-26 13:30:53,719 autoreload 75892 62632 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\passenger.py changed, reloading.
+django.utils.autoreload INFO 2022-09-26 13:30:55,801 autoreload 80000 82876 Watching for file changes with StatReloader
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:31:01,148 demoMiddleware 80000 55424 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:31:02,816 demoMiddleware 80000 76764 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:31:07,046 demoMiddleware 80000 76764 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:31:07,088 demoMiddleware 80000 76764 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:15,970 demoMiddleware 80000 82356 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:16,014 demoMiddleware 80000 82356 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:19,632 demoMiddleware 80000 72584 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:23,640 demoMiddleware 80000 72584 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:23,686 demoMiddleware 80000 72584 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:48,620 demoMiddleware 80000 76488 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:54,916 demoMiddleware 80000 76488 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:54,950 demoMiddleware 80000 76488 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:58,156 demoMiddleware 80000 75240 Middleware called in new in call
+theme.middleware.demoMiddleware WARNING 2022-09-26 13:33:58,206 demoMiddleware 80000 75240 Middleware called in new in call
+django.utils.autoreload INFO 2022-09-26 13:34:11,044 autoreload 80000 82876 C:\Users\JINIT\OneDrive\Desktop\Airline\theme\views\passenger.py changed, reloading.
+django.utils.autoreload INFO 2022-09-26 13:34:12,528 autoreload 79924 77196 Watching for file changes with StatReloader
