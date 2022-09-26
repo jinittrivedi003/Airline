@@ -22,6 +22,13 @@
 <![endif]-->
 </head>
 <body id="page6">
+  {% if messages %}
+        {% for message in messages %}
+         {% if message.tags %}  <script>alert("{{ message }}")</script> {% endif %}
+
+        {% endfor %}
+
+    {% endif %}
 <div class="main">
   <!--header -->
   <header>
@@ -30,7 +37,7 @@
       <span id="slogan">Fast, Frequent &amp; Safe Flights</span>
       <nav id="top_nav">
         <ul>
-          <li><a href="{% url 'Home' %}" class="nav1">Home</a></li>
+          <li><a href="{% url 'home' %}" class="nav1">Home</a></li>
           <li><a href="#" class="nav2">Sitemap</a></li>
           <li><a href="{% url 'contacts' %}" class="nav3">Contact</a></li>
         </ul>
@@ -74,18 +81,21 @@
       </article>
       <article class="col2">
         <h3 class="pad_top1">Contact Form</h3>
-        <form id="ContactForm" action="#">
+        <form action="{% url 'contactuser' %}" method="POST">
+          {% csrf_token %}
           <div>
             <div  class="wrapper"> <span>Name:</span>
-              <input type="text" class="input" >
+              <input type="text" class="input" name="Name">
             </div>
             <div  class="wrapper"> <span>Email:</span>
-              <input type="text" class="input" >
+              <input type="text" class="input" name="Email">
             </div>
             <div  class="textarea_box"> <span>Message:</span>
-              <textarea name="textarea" cols="1" rows="1"></textarea>
+              <input type="text" class="input" name="Message">
             </div>
-            <a href="#" class="button1"><strong>Send</strong></a> <a href="#" class="button1"><strong>Clear</strong></a> </div>
+            <div class="form-group">
+              <input type="submit" class="btn btn-primary py-3 px-5" value="Send Message">
+            </div>
         </form>
       </article>
     </div>

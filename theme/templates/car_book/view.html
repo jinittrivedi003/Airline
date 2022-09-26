@@ -16,6 +16,7 @@
         <table id="example1" class="table">
             <thead>
                 <tr>
+                    <td>Carname</td> 
                     <td>Pickup</td>
                     <td>Dropoff</td>
                     <td>PickupDate</td>
@@ -25,7 +26,7 @@
             <tbody>
                 {% for data in cars %}
                 <tr>
-                    
+                    <td>{{ data.Carname }}</td>
                     <td>{{ data.Pickup }}</td>
                     <td>{{ data.Dropoff }}</td>
                     <td>{{ data.PickupDate }}</td>

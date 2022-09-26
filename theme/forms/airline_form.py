@@ -9,7 +9,7 @@ class AirlineForm(forms.ModelForm):
         model=AirlineModel
 
         fields=[
-            "id",
+            "Airline_id",
             "From",
             "To",
             "Departing_Date",

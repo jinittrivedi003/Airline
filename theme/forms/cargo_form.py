@@ -9,6 +9,7 @@ class CargoForm(forms.ModelForm):
         model=CargoModel
 
         fields=[
+            "Airline_id",
             "Origin",
             "Destination",
             "Date",

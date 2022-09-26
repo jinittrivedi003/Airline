@@ -19,9 +19,9 @@ def addCargo(request):
     context['form']=form
     return render(request,"cargo/add.html",context)
 
-def updateCargo(request,id):
+def updateCargo(request,Airline_id):
     context={}
-    obj=get_object_or_404(CargoModel,id=id)
+    obj=get_object_or_404(CargoModel,Airline_id=Airline_id)
     form=CargoForm(request.POST or None,instance=obj)
     if form.is_valid():
         form.save()
@@ -29,9 +29,9 @@ def updateCargo(request,id):
     context["form"]=form
     return render(request,"cargo/edit.html",context)
 
-def deleteCargo(request,id):
+def deleteCargo(request,Airline_id):
     context={}
-    obj=get_object_or_404(CargoModel,id=id)
+    obj=get_object_or_404(CargoModel,Airline_id=Airline_id)
     if request.method=="GET":
         obj.delete()
         return redirect("viewCargo")

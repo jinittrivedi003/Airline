@@ -16,6 +16,7 @@
         <table id="example1" class="table">
             <thead>
                 <tr>
+                    <td>Airline_id</td>
                     <td>Origin</td>
                     <td>Destination</td>
                     <td>Date</td>
@@ -25,17 +26,17 @@
                 </tr>
             </thead>
             <tbody>
-                {% for data in cargoes %}
+                {% for data in tickets %}
                 <tr>
-                    
+                    <td>{{ data.ticket_id }}</td>
                     <td>{{ data.Origin }}</td>
                     <td>{{ data.Destination }}</td>
                     <td>{{ data.Date }}</td>
                     <td>{{ data.Goods_Description }}</td>
                     <td>{{ data.Weight }}</td>
                     <td>{{ data.Product }}
-                        <a href="{% url 'updateCargo' data.id %}" class="btn btn-success"><i class="fa fa-edit"></i></a>
-                        <a href="{% url 'deleteCargo' data.id %}" class="btn btn-danger"><i class="fa fa-trash"></i></a>
+                        <a href="{% url 'updateCargo' data.Airline_id %}" class="btn btn-success"><i class="fa fa-edit"></i></a>
+                        <a href="{% url 'deleteCargo' data.Airline_id %}" class="btn btn-danger"><i class="fa fa-trash"></i></a>
                 
                     </td>
                    

@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'mainApp',
     'theme',
     'crispy_forms',
+    'usersite',
     
 ]
 LOGGING={

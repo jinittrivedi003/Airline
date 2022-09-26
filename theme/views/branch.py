@@ -3,6 +3,8 @@ from ..models import BranchModel
 from django.shortcuts import render
 #from ..models import Category as CategoryForm
 from ..forms.branch_form import BranchForm
+import csv
+from django.http import HttpResponse
 #from ..models import Category
 
 def viewBranch(request):
@@ -36,3 +38,13 @@ def deleteBranch(request,branch_code):
         obj.delete()
         return redirect("viewBranch")
     return render(request,"branch/view.html",context)
+
+def download_branchcsv(request):
+    response =HttpResponse('text/csv')
+    response['Content-Disposition'] = 'attachment; filename=airlinedetails.csv'
+    writer = csv.writer(response)
+    writer.writerow(['Branch_code','Add1','Add2','City','Telephone'])
+    for data in BranchModel.objects.all():
+        writer.writerow([data.Branch_code,data.Add1,data.Add2,data.City,data.Telephone]) 
+
+    return response

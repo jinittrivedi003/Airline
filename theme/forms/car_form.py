@@ -9,6 +9,7 @@ class CarForm(forms.ModelForm):
         model=CarModel
 
         fields=[
+            "Carname",
             "Pickup",
             "Dropoff",
             "PickupDate",

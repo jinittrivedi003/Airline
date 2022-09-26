@@ -7,5 +7,11 @@ from .booking import bookingURL
 from .car import carURL
 from .cancel import cancelURL
 from .branch import branchURL
+from .passenger import passengerURL
+from .ticket import ticketURL
+from .route import routeURL
+from .fare import fareURL
+from .concession import concessionURL
+from .feedback import FeedbackURL
 
-urlpatterns=authUrls+categoryURL+airlineURL+statusURL+cargoURL+bookingURL+carURL+cancelURL+branchURL
+urlpatterns=authUrls+categoryURL+airlineURL+statusURL+cargoURL+bookingURL+carURL+cancelURL+branchURL+passengerURL+ticketURL+routeURL+fareURL+concessionURL+FeedbackURL

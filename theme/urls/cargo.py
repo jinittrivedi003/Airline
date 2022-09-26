@@ -3,6 +3,6 @@ from ..views.cargo import *
 cargoURL=[
     path('viewCargo/',viewCargo,name="viewCargo"),
     path('addCargo/',addCargo,name="addCargo"),  
-    path('updateCargo/<id>',updateCargo,name="updateCargo"), 
-    path('deleteCargo/<id>',deleteCargo,name="deleteCargo"), 
+    path('updateCargo/<Airline_id>',updateCargo,name="updateCargo"), 
+    path('deleteCargo/<Airline_id>',deleteCargo,name="deleteCargo"), 
 ]
