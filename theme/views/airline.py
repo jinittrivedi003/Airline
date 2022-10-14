@@ -87,12 +87,12 @@ def upload_csv(request):
 
     return redirect("viewCategory")
 
-def download_csv(request):
-    response = HttpResponse('text/csv')
-    response['Content-Disposition'] = 'attachment; filename=Airline.csv'
-    writer = csv.writer(response)
-    writer.writerow(['Airline_id','From','To','Departing_Date','Returning_Date','Class'])
-    for data in AirlineModel.objects.all():
-        writer.writerow([data.Airline_id,data.From,data.To,data.Departing_Date,data.Returning_Date,data.Class])
+# def download_csv(request):
+#     response = HttpResponse('text/csv')
+#     response['Content-Disposition'] = 'attachment; filename=Airline.csv'
+#     writer = csv.writer(response)
+#     writer.writerow(['Airline_id','From','To','Departing_Date','Returning_Date','Class'])
+#     for data in AirlineModel.objects.all():
+#         writer.writerow([data.Airline_id,data.From,data.To,data.Departing_Date,data.Returning_Date,data.Class])
 
-    return response
+#     return response

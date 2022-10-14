@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'mainApp',
     'theme',
     'crispy_forms',
-    'usersite',
+    'flight',
     
 ]
 LOGGING={
@@ -73,7 +73,8 @@ LOGGING={
     },
 }
 
-AUTH_USER_MODEL='theme.UserModel'
+#AUTH_USER_MODEL='theme.UserModel'
+AUTH_USER_MODEL='flight.User'
 CRISPY_TEMPLATE_PACK='bootstrap4'
 LOGIN_REDIRECT_URL='Home'
 MESSAGE_STORAGE='django.contrib.messages.storage.cookie.CookieStorage'
@@ -163,6 +164,9 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS=[
     os.path.join(BASE_DIR,"static"),
 ]
+TEMPLATE_DIRS = (
+    os.path.join(BASE_DIR, 'templates'),
+)
 MEDIA_ROOT=os.path.join(BASE_DIR,'')
 MEDIA_URL='/'
 # Default primary key field type

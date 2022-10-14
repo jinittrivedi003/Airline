@@ -1,9 +1,9 @@
 from distutils.text_file import TextFile
 from django.db import models
 from django.contrib.auth.models import AbstractUser
- #Create your models here.
+#Create your models here
 
-JT=(
+JT = (
     ('0','0'),
     ('1','1'),
     ('2','2')
@@ -15,7 +15,7 @@ cars = (
     ('SUV','SUV'),
     ('Premiere','Premiere')
 )
-route =(
+route = (
     ('Ahemdabad','Ahemdabad'),
     ('Goa','Goa'),
     ('Mumbai','Mumbai'),
@@ -28,14 +28,22 @@ route =(
     ('Kerala','Kerala'),
 )
 
-class1 =(
+class1 = (
     ('Economy','Economy'),
     ('First','First'),
     ('Buisness','Buisness')
 )
 
-class UserModel(AbstractUser):
-    userProfile=models.ImageField(upload_to="userProfile")
+# class UserModel(AbstractUser):
+#     userProfile=models.ImageField(upload_to="userProfile")
+class SignUp(models.Model):
+    username = models.TextField(max_length = 50)
+    email = models.EmailField(blank = True,max_length=50)
+    phone = models.TextField(max_length = 10)
+    password = models.TextField(max_length = 50)
+    def __str__(self):
+        return self.username
+
 class CategoryModel(models.Model):
     title=models.CharField(max_length=200)  
     description= models.TextField()
